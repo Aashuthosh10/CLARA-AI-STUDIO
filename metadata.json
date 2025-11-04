@@ -1,0 +1,7 @@
+{
+  "name": "CLARA",
+  "description": "An intelligent TTS agent that automatically detects the user's input language, processes a response in the same Indian regional language, and delivers clear, natural-sounding voice output.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
